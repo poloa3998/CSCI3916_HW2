@@ -4,6 +4,7 @@
   "description": "echo server",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "mocha --timeout 10000 --exit"
   },
   "author": "Shawn McCarthy",
